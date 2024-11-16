@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions of the world!",
+  "name": "Study Stream",
   "description": "Base Level Extension", 
   "icons": {
    "192": "logo192.png",
