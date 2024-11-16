@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#Running Chrome Extension
+Open Chrome Browser and type in chrome://extensions/
+
+At the top right corner enable Developer mode.
+
+Click "Load Unpacked" and select the "build" folder
